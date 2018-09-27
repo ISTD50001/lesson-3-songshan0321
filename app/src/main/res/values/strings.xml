@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComicApp</string>
+    <string name="buttonGetComic_Text">Get Comic</string>
+</resources>
